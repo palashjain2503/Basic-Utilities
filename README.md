@@ -9,3 +9,6 @@ Built a small streamlit app that allows user to ping,use tracerout,get IP config
 
 3)Web scraping
 Learned and used web scraping to get real time price of chips from Zepto website.
+
+4)Speech To Text
+Learned how to use whisper API for speech to text transcribing.
